@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    </header>
+        <div class="center">
+        </header>This is my Website.</header>
+            </div>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hi, my name is [Your Name]. I am currently a student interested in data science and math, and I also enjoy exploring the mysteries of space. 
+            I have a deep passion for understanding complex topics like black holes, and this website is a reflection of my interest. 
+            Type here more details about you, your background, and interests (at least 200 words).
+        </p>
+        <img src="profile.jpg" alt="My Photo" width="300">
+    </section>
+
+    <section id="socials">
+        <h3>Connect with Me</h3>
+        <ul>
+            <li><a href="https://github.com/yourprofile">GitHub</a></li>
+            <li><a href="https://linkedin.com/in/yourprofile">LinkedIn</a></li>
+            <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
+        </ul>
+    </section>
+
+    <nav>
+        <a href="blackholes.html">Explore Black Holes</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <footer>
+        <section id="contact">
+            <h3>Contact Information</h3>
+            <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
+        </section>
+    </footer>
+</body>
+</html>
